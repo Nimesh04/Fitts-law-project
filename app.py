@@ -2,7 +2,7 @@ from tkinter import *
 from tkinter import ttk
 import tkinter as tk
 import random
-root = Tk()
+# root = Tk()
 # frm = ttk.Frame(root, padding=500)
 # frm.grid()
 
